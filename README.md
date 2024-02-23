@@ -6,7 +6,7 @@ This project comprises test scenarios for the Facebook login functionality. The 
 
 ## File Structure
 
-Within this repository, you will find a file named FacebookLogin.md. This Markdown file outlines the test scenarios devised from the Facebook Login page.
+Within this repository, you will find a file named [FacebookLogin.md](https://github.com/ATPXJ/TestScenarios-FacebookLogin/blob/main/FacebookLogin.md). This Markdown file outlines the test scenarios devised from the Facebook Login page.
 
 ## Additional Resources
 
